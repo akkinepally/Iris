@@ -1,6 +1,9 @@
 # Iris
 
-Initially took the Iris dataset, analyzed the data and realised that the problem was a supervised problem and the class labels were categorical.Now that we know that the problem was categorical supervised problem was sure about applying the classification algorithm.There are many classification algorithms, question was which one to apply, so applied svm initially and then applied gridsearch along with k fold cross validation to find out the accuracy, the optimal values for the hyper parameters and also realised that the data was linearly distributed.
+Initially took the Iris dataset, analyzed the data and realised that the problem was a supervised problem and the class labels
+were categorical.Now that we know that the problem was categorical supervised problem was sure about applying the classification algorithm.There are many classification algorithms, question was which one to apply, so applied svm initially and then applied 
+gridsearch along with k fold cross validation to find out the accuracy, the optimal values for the hyper parameters and also 
+realised that the data was linearly distributed.
 
 
 Note: 1)If the data is linearly distributed then we can apply Logistic Regression and SVM
